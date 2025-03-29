@@ -8,8 +8,8 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/nikhilsaini098/Saini-txt-direct",
-    "success_url": "https://github.com/nikhilsaini098/Saini-txt-direct",
+    "repository": "https://github.com/Kuldeepsaini83024/Saini-txt19",
+    "success_url": "https://github.com/Kuldeepsaini83024/Saini-txt19",
     "stack": "container",
     "env": {
         "API_ID": {

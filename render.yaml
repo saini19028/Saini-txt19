@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: SAINI TXT DIRECT 
+    name: SAINI-TXT19 
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/nikhilsaini098/Saini-txt-direct
+    repo: https://github.com/Kuldeepsaini83024/Saini-txt19
     branch: main
     autoDeploy: false
     envVars:

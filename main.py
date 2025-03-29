@@ -27,7 +27,7 @@ from pyrogram.errors.exceptions.bad_request_400 import StickerEmojiInvalid
 from pyrogram.types.messages_and_media import message
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-credit ="<b> @SAINI_SAHAB19 </b>" 
+credit ="@SAINI_SAHAB19" 
 # Initialize the bot
 bot = Client(
     "bot",
@@ -310,7 +310,7 @@ async def txt_handler(bot: Client, m: Message):
     # Default credit message
     credit = "️<b> @SAINI_SAHAB19 </b>"
     if raw_text3 == '1':
-        CR = <b> @SAINI_SAHAB19 </b>
+        CR = '<b>@SAINI_SAHAB19</b>'
     elif raw_text3:
         CR = raw_text3
     else:
